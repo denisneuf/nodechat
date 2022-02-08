@@ -6,8 +6,8 @@
   "repository": "",
   "author": "Mario Pérez Esteso <mario@geekytheory.com>",
   "dependencies": {
-    "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "express": ">=3.11.0",
+    "socket.io": ">=2.4.0"
   }
 }
 
